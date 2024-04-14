@@ -68,7 +68,7 @@ main {
 .imgMain {
     display: flex;
     justify-content: center;
-    width: 100%;
+    width: 98%;
     height: 700px;
     align-items: center;
 }
@@ -338,15 +338,16 @@ footer {
     .about {
         flex-direction: column;
         justify-content: center;
-        height: 900px;
+        height: 500px;
         flex-direction: column-reverse;
+        margin-top: 5rem;
 
     }
 
     .textAbout {
         margin: 1rem;
         text-align: center;
-        width: 400px;
+        width: 350px;
         contain: '';
     }
 
