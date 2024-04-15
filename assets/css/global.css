@@ -334,7 +334,13 @@ footer {
     .carousel-inner {
         margin-top: 2rem;
     }
-
+    
+    .carousel-caption p,
+    h5 {
+        width: 100px;
+        background: #360745;
+        border-radius: 20px;
+    }
     .about {
         flex-direction: column;
         justify-content: center;
